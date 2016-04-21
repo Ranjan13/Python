@@ -7,5 +7,5 @@ abashed	| verb	| cause to be embarrassed; cause to feel self-conscious | 	embarr
 
 I have used python-inbuilt functions and the modules scikit
 #Update- Added Precision, Recall and F-Measure into the system
-
-
+################### web-scrap.py###########################
+This was written to automate the process of extracting web data from a medical domain website.
